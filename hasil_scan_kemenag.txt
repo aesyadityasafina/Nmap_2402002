@@ -1,0 +1,1 @@
+# Nmap 7.99 scan initiated Mon Jul 20 10:57:16 2026 as: nmap -A -oN hasil_scan_kemenag.txt www.kemenag.go.id
